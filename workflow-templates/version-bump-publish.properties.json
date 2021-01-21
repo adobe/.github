@@ -1,0 +1,11 @@
+{
+    "name": "Adobe version-bump-publish (beta)",
+    "description": "Bump version major|minor|patch and publish to npm at the push of a button",
+    "iconName": "Adobe_Corporate_Horizontal_Red_HEX",
+    "categories": [
+        "JavaScript", "node"
+    ],
+    "filePatterns": [
+        "package.json$"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Adobe publish to npm (beta)",
+    "description": "Publish to npm on push to default branch if package.json version was changed",
+    "iconName": "Adobe_Corporate_Horizontal_Red_HEX",
+    "categories": [
+        "JavaScript", "node"
+    ],
+    "filePatterns": [
+        "package.json$"
+    ]
+}
